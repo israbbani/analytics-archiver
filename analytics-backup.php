@@ -4,7 +4,7 @@
  * Universal Analytics Backup Script
  * @author Ibrahim Rabbani
  *
- * Uses Google Analytics API to create a monthly backup for the selected account using CSV files
+ * Use Google Analytics API to create a monthly backup for the selected account using CSV files
  * Backs up data for all accounts, properties and profiles associated with a particular Google Account
  *
  * Queries can be configured at 'config/queryConfig.php'
